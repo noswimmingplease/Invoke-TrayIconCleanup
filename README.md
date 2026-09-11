@@ -1,9 +1,9 @@
 # Invoke-TrayIconCleanup.ps1
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell)
-![Last Commit](https://img.shields.io/github/last-commit/Ci303/Invoke-TrayIconCleanup?label=last%20commit)
-![License](https://img.shields.io/github/license/Ci303/Invoke-TrayIconCleanup)
-![Issues](https://img.shields.io/github/issues/Ci303/Invoke-TrayIconCleanup?label=open%20issues)
+![Last Commit](https://img.shields.io/github/last-commit/noswimmingplease/Invoke-TrayIconCleanup?label=last%20commit)
+![License](https://img.shields.io/github/license/noswimmingplease/Invoke-TrayIconCleanup)
+![Issues](https://img.shields.io/github/issues/noswimmingplease/Invoke-TrayIconCleanup?label=open%20issues)
 
 ## Purpose
 
@@ -48,7 +48,7 @@ This operation is destructive. Keep the `.reg` backup until you verify results.
 
 ## Support and contribution
 
-- Issues and feature requests: [GitHub Issues](https://github.com/Ci303/Invoke-TrayIconCleanup/issues)
+- Issues and feature requests: [GitHub Issues](https://github.com/noswimmingplease/Invoke-TrayIconCleanup/issues)
 - Security concerns: [SECURITY.md](./SECURITY.md)
 - Contribution guidelines: [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## Repository policy

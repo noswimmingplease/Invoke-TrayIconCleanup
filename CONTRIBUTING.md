@@ -2,7 +2,7 @@
 
 ## Contact and support
 
-- For bugs, enhancement ideas, or usage questions, use [GitHub Issues](https://github.com/Ci303/Invoke-TrayIconCleanup/issues).
+- For bugs, enhancement ideas, or usage questions, use [GitHub Issues](https://github.com/noswimmingplease/Invoke-TrayIconCleanup/issues).
 - For security concerns, follow [SECURITY.md](./SECURITY.md).
 
 ## Quick contribution process
